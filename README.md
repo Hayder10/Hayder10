@@ -36,6 +36,6 @@ Howdy! ✋, I'm Rodrigo, a Full Stack Developer, passionate coder and problem so
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sussanara&repo=ADT-Backend%&theme=maroongold)](https://github.com/Sussanara/ADT-Backend)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=ToDoFlaskPythonTest%&theme=maroongold)](https://github.com/Hayder10/ToDoFlaskPythonTest)
 
 ## 📡 Contact me!
-<a href="https://www.linkedin.com/in/rodrigo-cabrera-a75665242/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/rodrigo_hayder10/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/rodrigo-cabrera10/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.linkedin.com/in/rodrigo-cabrera10/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 
