@@ -8,7 +8,7 @@ Howdy! ✋, I'm Rodrigo, a Full Stack Developer, passionate coder and problem so
 
 
 ## 🔧 My main skills are...
-<br>
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -23,7 +23,7 @@ Howdy! ✋, I'm Rodrigo, a Full Stack Developer, passionate coder and problem so
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-<br>
+
 
 ## 📊 Github Stats
 
