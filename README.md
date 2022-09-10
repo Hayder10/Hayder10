@@ -38,5 +38,8 @@ Howdy! ✋, I'm Rodrigo, a Full Stack Developer, passionate coder and problem so
 ## 📡 Contact me!
 <a href="https://www.linkedin.com/in/rodrigo-cabrera10/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/rodrigo_hayder10/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
+Here is my CV!
+[CVRodrigoCabrera.pdf](https://github.com/Hayder10/Hayder10/files/9539390/CVRodrigoCabrera.pdf)
+
 
 
