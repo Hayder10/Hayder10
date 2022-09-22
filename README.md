@@ -7,7 +7,7 @@ Howdy! ✋, I'm Rodrigo, a Full Stack Developer, passionate coder and problem so
 
 
 
-## 🔧 My main skills are..
+## 🔧 My main skills are...
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
