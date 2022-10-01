@@ -2,7 +2,7 @@
 
 ![Greetings! It's me, Rodrigo Cabrera](https://user-images.githubusercontent.com/107075433/186833075-193789a0-6dec-4a7a-bbbb-c22c116d05e9.png)
 
-Howdy! ✋, I'm Rodrigo, a Full Stack Developer, passionate coder and problem solver who is a little bit obsessed over databases and really abstract stuff. My main goal as a developer is to bring value to every team, as a programmer and as human being, devoted to learn everything that's necessary or interesting to me! 📙
+Howdy! ✋, I'm Rodrigo, a Full Stack Developer, passionate coder and problem solver who is a little bit obsessed over databases and really abstract stuff. My main goal as a developer is to bring value to every team, as a programmer and as a human being, devoted to learn everything that's necessary or interesting to me! 📙
 
 
 
