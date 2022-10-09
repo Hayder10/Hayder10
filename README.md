@@ -31,15 +31,17 @@ Howdy! ✋, I'm Rodrigo, a Full Stack Developer, passionate coder and problem so
 
 ## 📌 Pinned Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=LoginJWT%&theme=maroongold)](https://github.com/Hayder10/LoginJWT)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=bubbleSortCards%&theme=maroongold)](https://github.com/Hayder10/bubbleSortCards)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sussanara&repo=ADT%&theme=maroongold)](https://github.com/Sussanara/ADT/tree/backend)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=battleship-react%&theme=maroongold)](https://github.com/Hayder10/battleship-react)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sussanara&repo=ADT-Backend%&theme=maroongold)](https://github.com/Sussanara/ADT-Backend)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=ToDoFlaskPythonTest%&theme=maroongold)](https://github.com/Hayder10/ToDoFlaskPythonTest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=bubbleSortCards%&theme=maroongold)](https://github.com/Hayder10/bubbleSortCards)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=LoginJWTFrontEnd%&theme=maroongold)](https://github.com/Hayder10/LoginJWTFrontEnd)
 
 ## 📡 Contact me!
 <a href="https://www.linkedin.com/in/rodrigo-cabrera10/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/rodrigo_hayder10/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
-Here is my CV!
-[CVRodrigoCabrera.pdf](https://github.com/Hayder10/Hayder10/files/9539390/CVRodrigoCabrera.pdf)
+Here is my Resume!
+[CVRodrigoCabrera.pdf](https://github.com/Hayder10/Hayder10/files/9742778/CVRodrigoCabrera.pdf) (Español)
+
+[RodrigoCabreraResume.pdf](https://github.com/Hayder10/Hayder10/files/9742779/RodrigoCabreraResume.pdf) (English)
 
 
 
