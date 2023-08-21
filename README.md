@@ -27,19 +27,6 @@ Howdy! ✋, I'm Rodrigo, a Full Stack Developer, passionate coder and problem so
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 
-## 📊 Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayder10&show_icons=true&theme=maroongold&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayder10&layout=compact&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📌 Pinned Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sussanara&repo=ADT%&theme=maroongold)](https://github.com/Sussanara/ADT/tree/backend)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=battleship-react%&theme=maroongold)](https://github.com/Hayder10/battleship-react)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=bubbleSortCards%&theme=maroongold)](https://github.com/Hayder10/bubbleSortCards)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=LoginJWTFrontEnd%&theme=maroongold)](https://github.com/Hayder10/LoginJWTFrontEnd)
-
-## 📡 Contact me!
-<a href="https://www.linkedin.com/in/rodrigo-cabrera10/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/rodrigo_hayder10/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-
 Here is my CV or resume!
 
 [CVRodrigoCabrera.pdf](https://github.com/Hayder10/Hayder10/files/9742778/CVRodrigoCabrera.pdf) (Español)
